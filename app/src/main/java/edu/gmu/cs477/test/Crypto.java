@@ -13,9 +13,6 @@ import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Richard on 12/2/2017.
- */
 
 public class Crypto {
 
